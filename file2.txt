@@ -1,1 +1,1 @@
-This is file2 with a single line of text.
+This is file2 with a single line of text. (edited)
